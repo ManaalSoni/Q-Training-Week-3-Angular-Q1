@@ -1,0 +1,21 @@
+
+#bt{
+    background-color:rgb(42, 15, 68);
+    height:15%;
+}
+
+#b1, #b2{
+    background-color:rgb(0, 194, 168);
+    height:50px;
+    width:100px;
+    border-radius: 5px;
+    box-shadow: 40px;    
+    margin-top: 30px;
+}
+#b1 {
+    margin-left: 35%;
+}
+
+#b2 {
+    margin-left: 10%;
+}
